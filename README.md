@@ -1,3 +1,4 @@
+![logo](https://github.com/nayemurshuvo/nayemurshuvo/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Nayemur Rahman</h1>
 <h3 align="center">A dedicated web developer from Bangladesh</h3>
 
